@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/logo12">
+        <file>texTTalk.png</file>
+    </qresource>
+</RCC>
